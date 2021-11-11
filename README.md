@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sahil Agrawal</h1>
-- 🔭 I’m currently working on [Find-a-Player-Backend](https://github.com/sagrawal9689/Find-a-Player-Backend-)
 
 - 💬 Ask me about **Node.js, React**
 
